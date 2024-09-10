@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mornel67
-- 👀 I’m interested in Java and iOS development.
-- 🌱 I’m currently learning iOS development.
+- 👋 Hi, I’m Mauricio Ornelas
+- 👀 I’m interested in Java and backend development.
+- 🌱 I’m currently learning Spring Framework.
 - 📫 How to reach me: mornel67@icloud.com
 
 <!---
